@@ -14,7 +14,7 @@ public class MyFirstMod {
 	
 	@EventHandler
 	public void preInit(FMLPreInitializationEvent event){
-		
+		Config.configure(event);
 	}
 	
 	@EventHandler
