@@ -1,16 +1,27 @@
 [
-{
-  "modid": "myfirstmod",
-  "name": "My First Mod",
-  "description": "My first 1.12.2 mod.",
-  "version": "${version}",
-  "mcversion": "${mcversion}",
-  "url": "",
-  "updateUrl": "",
-  "authorList": ["frodo821"],
-  "credits": "None of informations for this item",
-  "logoFile": "",
-  "screenshots": [],
-  "dependencies": []
-}
+    {
+        "modid": "myfirstmod",
+        "name": "My First Mod",
+        "description": "My first 1.12.2 mod.",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": 
+        [
+            "frodo821"
+        ],
+
+        "credits": "None of informations for this item",
+        "logoFile": "",
+        "screenshots": 
+        [
+            
+        ],
+
+        "dependencies": 
+        [
+            
+        ]
+    }
 ]
